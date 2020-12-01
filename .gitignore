@@ -1,0 +1,15 @@
+#
+bin/*
+build/*
+.gradle/*
+#*.gitignore
+logs/*
+target/*
+classes/*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
